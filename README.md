@@ -31,8 +31,8 @@ AND MORE!
     * made the engine
 * [Decoy](https://github.com/ItsDecoy) (thats me):
   * Wrote documentation
-  * Idk i probably added modchart support later
-*  [Ash](https://github.com/Ash-Stat-SYS)
+  * Idk i probably added modchart support later along wit other shit
+*  [Ash](https://github.com/Ash-Stat-SYS): 
   * Helped with documentation
   * I'll probably force them to help me merge faf engine with this later ill credit them for that
 * the entire Funkin' crew:
