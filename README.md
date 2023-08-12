@@ -32,9 +32,9 @@ AND MORE!
 * [Decoy](https://github.com/ItsDecoy) (thats me):
   * Wrote documentation
   * Idk i probably added modchart support later
-* [Ash](https://github.com/Ash-Stat-SYS)
-  *  Helped with documentation
-  *  Ill probably force them to help me merge faf engine with this later ill credit them for that
+*  [Ash](https://github.com/Ash-Stat-SYS)
+  * Helped with documentation
+  * I'll probably force them to help me merge faf engine with this later ill credit them for that
 * the entire Funkin' crew:
     * THEY MADE THE BASE GAME EXIST SO LIKE WITHOUT THEM THIS WOULD NOT HAVE BEEN POSSIBLE GO CHECK THEM OUT RIGHT NOW;
 
