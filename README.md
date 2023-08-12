@@ -32,7 +32,7 @@ AND MORE!
 * [Decoy](https://github.com/ItsDecoy) (thats me):
   * Wrote documentation
   * Idk i probably added modchart support later
-*  [Ash](https://github.com/Ash-Stat-SYS)
+* [Ash](https://github.com/Ash-Stat-SYS)
   *  Helped with documentation
   *  Ill probably force them to help me merge faf engine with this later ill credit them for that
 * the entire Funkin' crew:
